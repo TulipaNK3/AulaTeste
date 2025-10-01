@@ -1,1 +1,31 @@
-aaaaaaaaaaaaa
+Para adicionar um diretório (pasta )
+deve a colocar caminho do diretório com 
+
+cd C:\Users\Aluno\Desktop\teste 4
+
+após isso, clonar o repositório do git hub(é uma nuvem)
+
+git clone https://github.com/TulipaNK3/AulaTeste
+
+Estando configurado verificar como esta os arquivos é usado 
+(verde já adicionando e vermelho foi realizado uma modificação)
+
+>git status 
+
+para enviar um arquivo para o git hub primeiro 
+
+dentro da pasta não pode estar vazia  
+
+após ter adicionado deve salvar dando o comando 
+
+git add .
+
+e o dar o comado para 
+
+git commit -m "Nome para explicar a alteracao"
+
+e por fim para enviar 
+
+git push 
+
+é isso 
